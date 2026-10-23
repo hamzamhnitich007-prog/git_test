@@ -1,0 +1,7 @@
+1 : git --version (gives git version, we use it to make sure get is in our pc)
+2 : git config --global user.name "name" (we use it to set username for get it can be different from github username)
+3 : git config --global user.email "email" (we use it to set email for git it must be same as github's)
+4 : create repository in github
+5 : git init (creates a dossier called git that follows the changes on the project)
+6 : git status (give the status of the folder as ex: if git dossier is created or not, if files ar tracked or not)
+7 :

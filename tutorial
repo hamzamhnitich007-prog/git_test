@@ -4,4 +4,7 @@
 4 : create repository in github
 5 : git init (creates a dossier called git that follows the changes on the project)
 6 : git status (give the status of the folder as ex: if git dossier is created or not, if files ar tracked or not)
-7 :
+7 : git add name of the file "or" . for a lot of files (it adds the files to the staging area that makes files ready to git commited)
+8 : git commit -m "commit name" (acts like a save game for the changes that happened after writing it, i can also see the date of the versions)
+9: git remote add orgin https://repository_link (add's the project created in the pc in the repository created in github)
+10 : git push -u origin branch_name (adds the commits in the local to github)
